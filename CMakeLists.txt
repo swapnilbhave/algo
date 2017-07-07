@@ -3,5 +3,5 @@ project(algo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES src/main.cpp)
 add_executable(algo ${SOURCE_FILES})
